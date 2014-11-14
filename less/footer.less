@@ -1,12 +1,20 @@
 // Insert your styling here.
 
 footer {
-  background-color: #1B2C4F;
+  background-color: @footer-bg;
   position: relative;
   margin-top: -350px;
   height: 350px;
   clear: both;
-  color: #ffffff;
+  color: @component-active-color;
+
+  .footer {
+    width: 100%;
+    background-color: @footer-dark-bg;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+  }
 }
 
 
