@@ -1,1 +1,25 @@
 // Insert your styling here.
+
+.navbar-brand {
+  display: inline-block;
+  height: 64px;
+  background-repeat: no-repeat;
+  background-position: 0 14px;
+  margin-right: 17px;
+  width: 100%;
+  .img-retina("@{base-url}/img/logo.png", "@{base-url}/img/logo@2x.png", 42px, 47px);
+  margin-left: 1px;
+  span {
+    color: @black;
+    font-weight: bold;
+    padding-left: 26px;
+    position: relative;
+    top: 16px;
+    font-size: @font-size-large;
+    &.info {
+      position: relative;
+      font-weight: 300;
+      font-size: @font-size-large - 2;
+    }
+  }
+}
