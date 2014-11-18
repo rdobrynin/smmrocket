@@ -4,7 +4,6 @@
     <list default="true" id="4fa89aa3-df24-49f9-ab6b-db09e9de2b11" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/content.less" afterPath="$PROJECT_DIR$/less/content.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="smmrocket.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,13 +25,13 @@
     <favorites_list name="smmrocket" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.68118626">
+    <splitter split-orientation="horizontal" split-proportion="0.40917516">
       <split-first>
         <leaf>
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="51" column="56" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.17887154" vertical-offset="787" max-vertical-offset="3443">
+                <state line="49" column="116" selection-start="2799" selection-end="2799" vertical-scroll-proportion="0.1617284" vertical-offset="841" max-vertical-offset="3798">
                   <folding>
                     <element signature="n#style#0;n#span#0;n#span#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -131,7 +130,7 @@
           <file leaf-file-name="content.less" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/content.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="94" column="25" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.5792079" vertical-offset="1242" max-vertical-offset="3022">
+                <state line="110" column="3" selection-start="2054" selection-end="2054" vertical-scroll-proportion="0.5792079" vertical-offset="1512" max-vertical-offset="3094">
                   <folding />
                 </state>
               </provider>
@@ -663,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="56" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.17887154" vertical-offset="787" max-vertical-offset="3443">
+        <state line="49" column="116" selection-start="2799" selection-end="2799" vertical-scroll-proportion="0.1617284" vertical-offset="841" max-vertical-offset="3798">
           <folding>
             <element signature="n#style#0;n#span#0;n#span#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -677,7 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/content.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="25" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.5792079" vertical-offset="1242" max-vertical-offset="3022">
+        <state line="110" column="3" selection-start="2054" selection-end="2054" vertical-scroll-proportion="0.5792079" vertical-offset="1512" max-vertical-offset="3094">
           <folding />
         </state>
       </provider>
