@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fa89aa3-df24-49f9-ab6b-db09e9de2b11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/content.less" afterPath="$PROJECT_DIR$/less/content.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/footer.less" afterPath="$PROJECT_DIR$/less/footer.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="smmrocket.iws" />
@@ -29,10 +27,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.53336424">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="68" column="16" selection-start="3760" selection-end="3760" vertical-scroll-proportion="-19.333334" vertical-offset="702" max-vertical-offset="2795">
+                <state line="84" column="32" selection-start="4710" selection-end="4710" vertical-scroll-proportion="0.64444447" vertical-offset="1026" max-vertical-offset="2826">
                   <folding>
                     <element signature="n#style#0;n#span#0;n#span#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -70,10 +68,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="header.less" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="header.less" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/less/header.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="0" selection-start="539" selection-end="624" vertical-scroll-proportion="0.27515924" vertical-offset="342" max-vertical-offset="1865">
+                <state line="53" column="22" selection-start="997" selection-end="997" vertical-scroll-proportion="-11.769231" vertical-offset="342" max-vertical-offset="1865">
                   <folding />
                 </state>
               </provider>
@@ -124,10 +122,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="content.less" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="content.less" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/content.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="77" column="16" selection-start="1413" selection-end="1413" vertical-scroll-proportion="0.644802" vertical-offset="865" max-vertical-offset="2590">
+                <state line="42" column="7" selection-start="613" selection-end="613" vertical-scroll-proportion="0.93564355" vertical-offset="0" max-vertical-offset="2590">
                   <folding />
                 </state>
               </provider>
@@ -156,8 +154,8 @@
         <option value="$PROJECT_DIR$/less/font.less" />
         <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/less/footer.less" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/content.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -625,25 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="16" selection-start="3760" selection-end="3760" vertical-scroll-proportion="-19.333334" vertical-offset="702" max-vertical-offset="2795">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/header.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="539" selection-end="624" vertical-scroll-proportion="0.27515924" vertical-offset="342" max-vertical-offset="1865">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/mailru_big.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -651,8 +630,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/content.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="16" selection-start="1413" selection-end="1413" vertical-scroll-proportion="0.644802" vertical-offset="865" max-vertical-offset="2590">
+        <state line="42" column="7" selection-start="613" selection-end="613" vertical-scroll-proportion="0.93564355" vertical-offset="0" max-vertical-offset="2590">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="22" selection-start="997" selection-end="997" vertical-scroll-proportion="-11.769231" vertical-offset="342" max-vertical-offset="1865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="32" selection-start="4710" selection-end="4710" vertical-scroll-proportion="0.64444447" vertical-offset="1026" max-vertical-offset="2826">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#span#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
