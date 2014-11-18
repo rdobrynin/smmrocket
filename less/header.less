@@ -1,7 +1,21 @@
 // Insert your styling here.
 
 #top-top {
-  height: 30px;
+  height: 40px;
+  background-color: @footer-dark-bg;
+  .navbar-nav > li > a {
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+
+  span.info {
+    padding-top: 8px;
+    position: absolute;
+    display: block;
+    font-size: @font-size-large - 2;
+    font-weight: 300;
+    color: #AAB3C5;
+  }
 }
 
 #top-nav {
@@ -10,28 +24,21 @@
 
 .navbar-brand {
   display: inline-block;
-  height: 68px;
+  height: 76px;
   background-repeat: no-repeat;
   background-position: 0 14px;
   margin-right: 17px;
   width: 100%;
-  .img-retina("@{base-url}/img/logo.png", "@{base-url}/img/logo@2x.png", 42px, 47px);
+  .img-retina("@{base-url}/img/logo.png", "@{base-url}/img/logo@2x.png", 58px, 64px);
   margin-left: 1px;
   span {
-    color: @black;
+    color: @component-active-color;
     font-weight: bold;
-    padding-left: 26px;
+    padding-left: 42px;
     position: relative;
-    top: 16px;
-    font-size: @font-size-large;
+    top: 23px;
+    font-size: @font-size-large + 6;
   }
-}
-
-.info {
-  position: relative;
-  font-weight: 300;
-  font-size: @font-size-large - 2;
-  top:30px;
 }
 
 #top-right-nav {
@@ -39,4 +46,17 @@
   /* display: block; */
   top: 18px;
 }
+
+  span {
+    &#rocket {
+      color: @brand-accent;
+      position: static;
+      padding-left: 0;
+    }
+  }
+
+  ul {
+    margin-top: 26px;
+  }
+
 }
