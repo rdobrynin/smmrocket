@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fa89aa3-df24-49f9-ab6b-db09e9de2b11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/content.less" afterPath="$PROJECT_DIR$/less/content.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/header.less" afterPath="$PROJECT_DIR$/less/header.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="$PROJECT_DIR$/less/variables.less" />
-    </list>
+    <list default="true" id="4fa89aa3-df24-49f9-ab6b-db09e9de2b11" name="Default" comment="" />
     <ignored path="smmrocket.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,10 +50,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="variables.less" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/variables.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="34" column="0" selection-start="928" selection-end="928" vertical-scroll-proportion="0.23778072" vertical-offset="432" max-vertical-offset="16345">
+                <state line="49" column="0" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.5944518" vertical-offset="432" max-vertical-offset="16345">
                   <folding />
                 </state>
               </provider>
@@ -127,10 +122,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="content.less" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="content.less" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/content.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="109" column="21" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.7574257" vertical-offset="1350" max-vertical-offset="2896">
+                <state line="99" column="3" selection-start="1872" selection-end="1872" vertical-scroll-proportion="0.5346535" vertical-offset="1350" max-vertical-offset="2896">
                   <folding />
                 </state>
               </provider>
@@ -653,16 +648,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/variables.less">
+    <entry file="file://$PROJECT_DIR$/less/content.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="928" selection-end="928" vertical-scroll-proportion="0.23778072" vertical-offset="432" max-vertical-offset="16345">
+        <state line="99" column="3" selection-start="1872" selection-end="1872" vertical-scroll-proportion="0.5346535" vertical-offset="1350" max-vertical-offset="2896">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/content.less">
+    <entry file="file://$PROJECT_DIR$/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="21" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.7574257" vertical-offset="1350" max-vertical-offset="2896">
+        <state line="49" column="0" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.5944518" vertical-offset="432" max-vertical-offset="16345">
           <folding />
         </state>
       </provider>
