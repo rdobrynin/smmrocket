@@ -6,6 +6,11 @@
   .navbar-nav > li > a {
     padding-top: 9px;
     padding-bottom: 9px;
+    color: #AAB3C5;
+    padding-left: 0;
+    &:hover {
+      background-color: transparent;
+    }
   }
 
   span.info {
@@ -15,6 +20,33 @@
     font-size: @font-size-large - 2;
     font-weight: 300;
     color: #AAB3C5;
+  }
+
+  .nav  {
+    .open  {
+      a {
+        background-color: transparent;
+        &:focus, &:hover {
+          background-color: transparent;
+
+        }
+      }
+    }
+
+    .dropdown {
+      .dropdown-menu {
+        min-width: 0 !important;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        background-color:@footer-dark-bg ;
+        margin-left: -20px;
+        li > a {
+          color:#AAB3C5;
+        }
+      }
+      }
+
   }
 }
 
@@ -95,4 +127,11 @@
     margin-top: 26px;
   }
 
+}
+
+i.fa.fa-caret-down {
+  font-size: 20px;
+  position: absolute;
+  top: 10px;
+  right: -1px;
 }
