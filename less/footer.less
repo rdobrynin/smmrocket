@@ -3,11 +3,16 @@
 footer {
   background-color: @footer-bg;
   position: relative;
-  margin-top: -420px;
-  height: 450px;
+  margin-top: -520px;
+  height: 600px;
   clear: both;
   color: @component-active-color;
   padding-top: 10px;
+
+  @media (max-width: @screen-sm) {
+    margin-top: -420px;
+    height: 480px;
+  }
 
   .footer {
     width: 100%;
@@ -23,7 +28,7 @@ footer {
 
   .icon-award {
     font-size: 120px;
-    padding-bottom: 30px;
+    padding-bottom: 5px;
   }
   h4 {
     margin-top: 0;
@@ -38,10 +43,106 @@ footer {
   p {
     font-weight: 300;
   }
+
+  .navbar-default {
+    background: transparent;
+    border:none;
+    padding-top: 15px;
+
+    .navbar-nav > li > a {
+      color: #AAB3C5;
+      &:hover {
+        color: #AAB3C5;
+        @media (max-width: @screen-sm) {
+          color: @footer-dark-bg;;
+        }
+      }
+
+      @media (max-width: @screen-sm) {
+        color: @footer-dark-bg;;
+      }
+    }
+  }
+
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background: transparent;
+  }
+
+  .navbar-brand{
+    padding-right: 0;
+  }
+
+  .icon-logo {
+    font-size: 35px;
+    top: -6px;
+    position: relative;
+  }
+
+  i.fa.fa-caret-down {
+    top:16px;
+  }
+
+  .navbar-nav li a:before {
+    background: none repeat scroll 0 0 #AAB3C5;
+    content: "";
+    display: block;
+    height: 15px;
+    margin-top: -15px;
+    position: absolute;
+    right: -1px;
+    top: 67%;
+    width: 1px;
+    z-index: 1;
+
+    @media (max-width: @screen-sm) {
+      display: none;
+    }
+
+  }
+
+  .navbar-nav li:last-child a:before {
+    background: transparent;
+  }
+
+  .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: transparent;
+    color: #AAB3C5;
+  }
+
+  .nav  {
+    .open  {
+      a {
+        background-color: transparent;
+        &:focus, &:hover {
+          background-color: transparent;
+
+        }
+      }
+    }
+
+    .dropdown {
+      .dropdown-menu {
+        min-width: 129px !important;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        background-color:@footer-dark-bg ;
+        margin-left: -20px;
+        li > a {
+          color:#AAB3C5;
+        }
+      }
+    }
+
+  }
+
 }
 
 
 #push, footer {
-  min-height: 450px;
+  min-height: 600px;
   height: auto;
+  @media (max-width: @screen-sm) {
+    min-height: 450px;
+  }
 }
