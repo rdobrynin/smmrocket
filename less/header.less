@@ -95,7 +95,6 @@
   background-repeat: no-repeat;
   background-position: 0 14px;
   margin-right: 17px;
-  width: 100%;
   .img-retina("@{base-url}/img/logo.png", "@{base-url}/img/logo@2x.png", 58px, 64px);
   margin-left: 1px;
   span {
@@ -125,15 +124,26 @@
   }
 
   ul {
-    margin-top: 26px;
+    margin-top: 35px;
     @media (max-width: @screen-sm) {
         float: left !important;
+    }
+    li {
+      span {
+        color:@component-active-color;
+        font-weight: 400;
+        a {
+          color:#AAB3C5;
+          font-weight: 300;
+        }
+      }
     }
   }
 
   .btn-primary {
    margin-bottom: 20px;
   }
+
 
 }
 

@@ -7,6 +7,11 @@ $(window).on("load", function() {
 });
 $(function () {
 
+    $('#right-account > li > a').click(function() {
+        $('li').removeClass();
+        $(this).parent().addClass('active');
+    });
+
     $( "#login, #login_switch" ).click(function() {
         $('#loginModal').modal('show');
     });

@@ -17,6 +17,10 @@ h1 {
   letter-spacing: -2.5px;
 }
 
+h2 {
+  letter-spacing: -1.5px;
+}
+
 h3 {
   font-weight: 300;
   font-size: 1.5em;
@@ -199,4 +203,45 @@ span.more a {
 .error {
   color: @brand-danger;
   font-weight: 300 !important;
+}
+
+#account-nav {
+  margin-bottom: -10px;
+  padding-top: 25px;
+  .btn-primary {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: @font-size-base + 2;
+    &:hover {
+      background-color: @btn-primary-border;
+    }
+    color:@component-active-color !important;
+    font-weight: 600 !important;
+  }
+
+  .icon-buy {
+    font-size: @font-size-base + 8;
+    font-weight: 600;
+  }
+
+  li {
+    a {
+      &:hover, &:focus {
+        background-color: transparent;
+      }
+      color:@black;
+      font-weight: 300;
+    }
+    &.active {
+      a {
+        color:@link-color;
+        font-weight: 600;
+      }
+    }
+  }
+
+ .balance {
+   position: relative;
+   padding-top: 15px;
+ }
 }
