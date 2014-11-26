@@ -8,4 +8,26 @@
           box-shadow: @shadow;
 }
 
+.modal-dialog {
+  width: 300px;
+  margin: 30px auto;
+}
 
+#registerModal {
+  .modal-dialog {
+    min-width: 300px;
+    margin: 30px auto;
+  }
+}
+
+
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity 0s linear;
+  -o-transition: opacity 0s linear;
+  transition: opacity 0s linear;
+}
+
+.has-error .help-block, .has-error .control-label, .has-error .radio, .has-error .checkbox, .has-error .radio-inline, .has-error .checkbox-inline {
+  font-weight: 400;
+}
