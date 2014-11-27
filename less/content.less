@@ -245,3 +245,86 @@ span.more a {
    padding-top: 15px;
  }
 }
+
+.navbar-form .input-group > .form-control {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.form-control {
+  border: 2px solid #E6E6E6;
+  &:hover, &:focus {
+    border: 2px solid #E6E6E6;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+}
+
+.btn {
+  .filter-option {
+    font-size: 15px;
+    vertical-align: inherit;
+    color: #555;
+  }
+}
+
+.neardrop {
+  color:#555;
+  top: 4px;
+  position: inherit;
+}
+
+.info {
+  color:#555;
+  text-align: center;
+}
+
+button.btn.dropdown-toggle.selectpicker.btn-default {
+  border: 2px solid #E6E6E6;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  outline:none;
+  &:hover {
+    background-color: @component-active-color;
+  }
+}
+
+
+.bootstrap-select .btn:focus {
+  outline:0 !important;
+}
+
+.btn-group.open .dropdown-toggle {
+  background-color: @component-active-color;
+}
+
+thead {
+  background-color: @table-bg-accent;
+}
+.table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 0;
+  color: lighten(@gray, 10%);
+}
+
+
+.btn-pagination {
+  background-color: #f2f2f2;
+  box-shadow: 0 3px 0 #ddd;
+  color: #a8a8a8;
+  font-weight: 600;
+  border: 0;
+  font-size: @font-size-base + 2;
+}
+
+.bootstrap-select.btn-group .btn .caret {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  margin-top: -2px;
+  vertical-align: middle;
+  color: #999;
+}

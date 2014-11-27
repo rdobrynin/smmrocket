@@ -120,5 +120,6 @@ $(function () {
             });
     });
 
+    $('.selectpicker').selectpicker();
 
 });
