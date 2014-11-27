@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fa89aa3-df24-49f9-ab6b-db09e9de2b11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/content.less" afterPath="$PROJECT_DIR$/less/content.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promotion.html" afterPath="$PROJECT_DIR$/promotion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="smmrocket.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,9 +75,11 @@
           <file leaf-file-name="promotion.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/promotion.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="88" column="48" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.53515065" vertical-offset="1211" max-vertical-offset="4932">
+                <state line="106" column="32" selection-start="6470" selection-end="6470" vertical-scroll-proportion="0.19799139" vertical-offset="1680" max-vertical-offset="3330">
                   <folding>
                     <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
@@ -708,9 +709,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/promotion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="48" selection-start="4896" selection-end="4896" vertical-scroll-proportion="0.53515065" vertical-offset="1211" max-vertical-offset="4932">
+        <state line="106" column="32" selection-start="6470" selection-end="6470" vertical-scroll-proportion="0.19799139" vertical-offset="1680" max-vertical-offset="3330">
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
