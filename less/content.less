@@ -240,10 +240,6 @@ span.more a {
     }
   }
 
- .balance {
-   position: relative;
-   padding-top: 15px;
- }
 }
 
 .navbar-form .input-group > .form-control {
@@ -318,6 +314,9 @@ thead {
   font-weight: 600;
   border: 0;
   font-size: @font-size-base + 2;
+  &:focus {
+    box-shadow: 0 3px 0 #ddd;
+  }
 }
 
 .bootstrap-select.btn-group .btn .caret {
