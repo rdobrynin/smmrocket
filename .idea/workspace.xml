@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fa89aa3-df24-49f9-ab6b-db09e9de2b11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account.html" afterPath="$PROJECT_DIR$/account.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/content.less" afterPath="$PROJECT_DIR$/less/content.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/footer.less" afterPath="$PROJECT_DIR$/less/footer.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promotion.html" afterPath="$PROJECT_DIR$/promotion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="$PROJECT_DIR$/less/variables.less" />
     </list>
     <ignored path="smmrocket.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,16 +41,16 @@
           <file leaf-file-name="registration.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/registration.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="2" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="90">
+                <state line="3" column="2" selection-start="24" selection-end="24" vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="925">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="account.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="account.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/account.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="73" column="69" selection-start="4302" selection-end="4302" vertical-scroll-proportion="0.47356582" vertical-offset="929" max-vertical-offset="5965">
+                <state line="94" column="16" selection-start="5215" selection-end="5473" vertical-scroll-proportion="-20.25926" vertical-offset="1145" max-vertical-offset="5965">
                   <folding>
                     <element signature="n#style#0;n#span#1;n#span#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,22 +59,29 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="footer.less" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/less/footer.less">
+          <file leaf-file-name="promotion.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/promotion.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="76" column="14" selection-start="1329" selection-end="1329" vertical-scroll-proportion="-3.925" vertical-offset="1054" max-vertical-offset="3698">
-                  <folding />
+                <state line="136" column="0" selection-start="7801" selection-end="7801" vertical-scroll-proportion="0.696288" vertical-offset="1865" max-vertical-offset="5821">
+                  <folding>
+                    <element signature="n#style#0;n#span#1;n#span#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#label#0;n#div#5;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#label#0;n#div#5;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="promotion.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/promotion.html">
+          <file leaf-file-name="common.rnc" pinned="false" current="false" current-in-tab="false">
+            <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="180" column="0" selection-start="10621" selection-end="10621" vertical-scroll-proportion="-17.333334" vertical-offset="2772" max-vertical-offset="4309">
-                  <folding>
-                    <element signature="n#style#0;n#span#1;n#span#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
+                <state line="124" column="22" selection-start="3258" selection-end="3258" vertical-scroll-proportion="0.0" vertical-offset="1927" max-vertical-offset="9502">
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -126,7 +132,7 @@
           <file leaf-file-name="content.less" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/content.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="246" column="21" selection-start="4306" selection-end="4306" vertical-scroll-proportion="0.41866028" vertical-offset="4096" max-vertical-offset="7820">
+                <state line="383" column="24" selection-start="6426" selection-end="6426" vertical-scroll-proportion="0.5263158" vertical-offset="6472" max-vertical-offset="8090">
                   <folding />
                 </state>
               </provider>
@@ -170,15 +176,15 @@
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/less/header.less" />
         <option value="$PROJECT_DIR$/less/overrides.less" />
-        <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/less/style.less" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/less/font.less" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/promotion.html" />
         <option value="$PROJECT_DIR$/less/footer.less" />
         <option value="$PROJECT_DIR$/account.html" />
+        <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/less/content.less" />
+        <option value="$PROJECT_DIR$/promotion.html" />
       </list>
     </option>
   </component>
@@ -574,11 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="21" selection-start="3394" selection-end="3394" vertical-scroll-proportion="0.0" vertical-offset="2376" max-vertical-offset="8712" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/smmrocket2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -650,13 +651,6 @@
         <state line="130" column="8" selection-start="2839" selection-end="2839" vertical-scroll-proportion="-7.8653846" vertical-offset="1931" max-vertical-offset="2880" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/overrides.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="19" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="702">
@@ -667,13 +661,6 @@
     <entry file="file://$PROJECT_DIR$/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="37" selection-start="83" selection-end="83" vertical-scroll-proportion="0.10526316" vertical-offset="0" max-vertical-offset="684" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="225" selection-end="235" vertical-scroll-proportion="-2.278481" vertical-offset="0" max-vertical-offset="15822">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/smmrocket_new_promotion.png">
@@ -702,15 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/promotion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="0" selection-start="10621" selection-end="10621" vertical-scroll-proportion="-17.333334" vertical-offset="2772" max-vertical-offset="4309">
-          <folding>
-            <element signature="n#style#0;n#span#1;n#span#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/footer.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="14" selection-start="1329" selection-end="1329" vertical-scroll-proportion="-3.925" vertical-offset="1054" max-vertical-offset="3698">
@@ -718,19 +696,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/content.less">
+    <entry file="file://$PROJECT_DIR$/registration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="246" column="21" selection-start="4306" selection-end="4306" vertical-scroll-proportion="0.41866028" vertical-offset="4096" max-vertical-offset="7820">
+        <state line="3" column="2" selection-start="24" selection-end="24" vertical-scroll-proportion="-2.0" vertical-offset="0" max-vertical-offset="925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="16532">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="69" selection-start="4302" selection-end="4302" vertical-scroll-proportion="0.47356582" vertical-offset="929" max-vertical-offset="5965">
+        <state line="94" column="16" selection-start="5215" selection-end="5473" vertical-scroll-proportion="-20.25926" vertical-offset="1145" max-vertical-offset="5965">
           <folding>
             <element signature="n#style#0;n#span#1;n#span#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/content.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="383" column="24" selection-start="6426" selection-end="6426" vertical-scroll-proportion="0.5263158" vertical-offset="6472" max-vertical-offset="8090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="22" selection-start="3258" selection-end="3258" vertical-scroll-proportion="0.0" vertical-offset="1927" max-vertical-offset="9502">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promotion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="0" selection-start="7801" selection-end="7801" vertical-scroll-proportion="0.696288" vertical-offset="1865" max-vertical-offset="5821">
+          <folding>
+            <element signature="n#style#0;n#span#1;n#span#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#5;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#5;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
